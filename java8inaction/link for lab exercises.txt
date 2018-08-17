@@ -1,0 +1,3 @@
+https://github.com/java8/Java8InAction/tree/master/src/main/java/lambdasinaction
+
+https://github.com/PranavBhatia/SOEN6441
